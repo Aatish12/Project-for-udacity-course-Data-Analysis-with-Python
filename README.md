@@ -7,6 +7,7 @@ This is the project for udacity course Data Analysis with Python.In this project
 # Questions for analysis:-
 
 1]What is the total number of passenger?
+
 2]What is number of Passenger who survived?
 3]Is male or female passenger more likely survived?
 4]Is number of sibbling affect on survival rate?
