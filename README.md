@@ -18,3 +18,14 @@ This is the project for udacity course Data Analysis with Python.In this project
 
 6]Is passenger class affected survival rate?
 
+# Conclusions:-
+
+1]Total 342 passengers are survived.
+
+2]On the basis of bar graph we can conclude that female passengers are more likely survived.
+
+3]On the basis of bar graph the passengers who have less number of sibblings are more likely survived.
+
+4]Average age of survived passengers is 24.It means younger passengers are more likely survived.
+
+5]On the basis of graph the passenger with first class are more likely survived.
